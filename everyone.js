@@ -1,7 +1,7 @@
-function goodFunction(a) {
-    console.log("Hello from DCT");
+function goodFunction(a){
+    console.log("Hello from Sudhanva");
 }
 
-function goodnight() {
-    console.log('Good night')
+function add(a, b){
+    return a + b;
 }
