@@ -1,10 +1,14 @@
-function mul(a,b){
-    return a*b
+function mul(a, b) {
+    return a * b
 }
 
 function goodFunction(a) {
-	console.log("Hello from DCT");
-	function name() {
-		console.log("Everyone!");
-	}
+    console.log("Hello from DCT");
+    function name() {
+        console.log("Everyone!");
+    }
+}
+
+function greeting() {
+    console.log('Greets')
 }
