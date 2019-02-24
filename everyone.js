@@ -1,3 +1,7 @@
 function goodFunction(a){
-    console.log("Hello from DCT");
+    console.log("Hello from Sudhanva");
+}
+
+function add(a, b){
+    return a + b;
 }
